@@ -17,3 +17,23 @@ A complete, production-grade e-commerce ecosystem consisting of a high-conversio
 
 ---
 *Developed by Parth Sharma Studio*
+
+## 💎 Advanced Visual Aesthetics
+- **Tactile Feedback**: Haptic/vibration patterns configured on core checkout and CTA triggers.
+- ** Curated Colors**: Tailored HSL scheme designed for elegant contrasts under both light and dark mode ambient settings.
+- **Micro-interactions**: Scale gestures (e.g. `0.98` scale down on press) for high-tactility, premium response.
+- **Details**: Features secure async client token storage, schema validations via Zod, JWT token rotation, and robust error handling frameworks.
+
+## 🏁 Run & Installation Instructions
+1. Clone this repository.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the application:
+   ```bash
+   npm start
+   ```
+
+---
+*Created and maintained with ❤️ by Parth Sharma Studio.*
